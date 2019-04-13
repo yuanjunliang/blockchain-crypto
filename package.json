@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/yuanjunliang/blockchain-crypto/issues"
   },
-  "homepage": "https://github.com/yuanjunliang/blockchain-crypto#readme"
+  "homepage": "https://github.com/yuanjunliang/blockchain-crypto#readme",
+  "dependencies": {
+    "bignumber.js": "^8.1.1",
+    "crypto-js": "^3.1.9-1",
+    "eccrypto": "^1.1.1",
+    "keccak": "^2.0.0",
+    "long": "^4.0.0",
+    "randombytes": "^2.1.0",
+    "secp256k1": "^3.6.2"
+  }
 }
