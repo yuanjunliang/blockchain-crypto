@@ -1,6 +1,3 @@
-# blockchain-crypto
-crypto package for blockchain
-
 
 ## Functions
 
@@ -304,5 +301,3 @@ BlockChainCrypto.hex.decompress(base64, true); // decompress from base64
 // > '0x107be946709e41b7895eea9f2d...'
 
 ```
-
-
